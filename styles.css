@@ -1,0 +1,34 @@
+body {
+    font-family: Arial, sans-serif;
+    text-align: center;
+    background-color: cadetblue;
+}
+
+h1 {
+    font-size: 24px;
+}
+
+#feedback {
+    font-size: 18px;
+    margin-top: 10px;
+}
+
+#input-container {
+    margin-top: 20px;
+}
+
+#guess-input {
+    padding: 5px;
+    font-size: 16px;
+}
+
+#guess-button {
+    padding: 5px 10px;
+    font-size: 16px;
+    cursor: pointer;
+    background-color: black;
+    color: white;
+}
+footer {
+    padding-top: 760px;
+}
